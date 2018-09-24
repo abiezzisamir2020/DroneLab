@@ -1,0 +1,8 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=57278:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/samirabiezzi/IdeaProjects/SpacedProject/out/production/SpacedProject Main
+The distance between drone a and drone b is 9.9498743710662 meters
+The distance between drone b and drone c is 10.677078252031311 meters
+The distance between drone c and drone a is 13.601470508735444 meters
+The max hight is 13.601470508735444 meters
+The min hight is 9.9498743710662 meters
+
+Process finished with exit code 0
